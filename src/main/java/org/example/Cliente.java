@@ -1,9 +1,9 @@
 package org.example;
 
-import java.util.UUID;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
+import java.util.UUID;
 
 public class Cliente {
     private static final int PORTA_SERVIDOR = 5000;
